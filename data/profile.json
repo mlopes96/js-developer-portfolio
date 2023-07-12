@@ -3,7 +3,7 @@
   "photo": "https://avatars.githubusercontent.com/u/111306788?s=400&u=8545c1baeba159ac2fbf999969468b69ddb9ec62&v=4",
   "job": "Técnico em Informática no HE-UFPel",
   "location": "Pelotas - RS",
-  "phone": "(53) 98456-99999",
+  "phone": "(53) 99999-99999",
   "email": "email@gmail.com",
   "skills": {
     "hardSkills": [
@@ -63,7 +63,7 @@
     {
       "name": "Técnico em Informática - Inteligência de Dados / HE-UFPel EBSERH",
       "period": "2021 - até o momento",
-      "description": "Automatização de processos com RPA, extração de dados, desenvolvimento de painéis e dashboards."
+      "description": "Automatização de processos com Python (RPA), extração de informação em banco de dados, desenvolvimento de painéis e dashboards."
     },
     {
       "name": "Técnico em Informática - Suporte Técnico / HE-UFPel EBSERH",
